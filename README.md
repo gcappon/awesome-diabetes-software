@@ -31,4 +31,4 @@ Your contributions are always welcome! Please take a look at the [contribution g
 
 - - -
 
-If you have any question about this opinionated list, do not hesitate to contact me via email [@gcappon](giacomo.cappon@unipd.it) or open an issue on GitHub.
+If you have any question about this opinionated list, do not hesitate to contact me via email giacomo.cappon@unipd.it or open an issue on GitHub.
