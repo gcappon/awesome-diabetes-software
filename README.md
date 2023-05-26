@@ -23,7 +23,7 @@ Where to discover learning resources.
 ## Top-level Journals
 
 * Bioengineering
-    * [IEEE Transaction on Biomedical Engineering](https://www.embs.org/tbme/)
+    * [IEEE Transaction on Biomedical Engineering](https://www.embs.org/tbme/) - IEEE Transactions on Biomedical Engineering contains basic and applied papers dealing with biomedical engineering. Papers range from engineering development in methods and techniques with biomedical applications to experimental and clinical investigations with engineering contributions.
 
 # Contributing
 
