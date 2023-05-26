@@ -11,6 +11,9 @@ A curated list of awesome open-source initiatives frameworks, libraries, softwar
     - [Software for CGM Data Analysis](#software-for-cgm-data-analysis)
 - [Algorithms for Diabetes Management](#algorithms-for-diabetes-management)
     - [Glucose Prediction Algorithms](#glucose-prediction-algorithms)
+- [Software for Clinical Trials](#software-for-clinical-trials)
+    - [Software to Determine Clinical Trial Outcomes Accuracy](#software-to-determine-clinical-trial-outcomes-accuracy)
+    - [Software for Glucose Clamp Experiments](#software-for-glucose-clamp-experiments)
 - [Resources](#resources)
     - [Top-level Journals](#top-level-journals)
 - [Contributing](#contributing)
@@ -64,6 +67,16 @@ A curated list of awesome open-source initiatives frameworks, libraries, softwar
 ## Exercise Management Algorithms
 
 * [T1D Exercise Adjustment](https://gitlab.com/csb.ethz/t1d-exercise-adjustment) - Exercise and T1D: Modeling, simulation and evaluation of treatment strategies.
+
+# Software for Clinical Trials
+
+## Software to Determine Clinical Trial Outcomes Accuracy
+
+* [AnalyticalTBRestimation](https://github.com/NunzioCamer/AnalyticalTBRestimation) - Analytical computation of Time Below Range estimation error based on the number of Continuous Glucose Monitoring samples.
+
+## Software for Glucose Clamp Experiments
+
+* [Gluclas](https://github.com/jp993/gluclas) - Gluclas (GLUcose CLamp ASsistant) is a free software for suggesting glucose infusion rate adjustments during manual glucose clamp experiments.
 
 # Resources
 
