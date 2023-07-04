@@ -9,8 +9,8 @@ A curated list of awesome open-source initiatives frameworks, libraries, softwar
     - [Discrete Events Simulators](#discrete-events-simulators)
 - [Analysis Software](#analysis-software)
     - [Software for CGM Data Analysis](#software-for-cgm-data-analysis)
+    - [CGM Data Processing Algorithms](#cgm-proessing-algorithms)
 - [Algorithms for Diabetes Management](#algorithms-for-diabetes-management)
-    - [CGM Processing Algorithms](#cgm-proessing-algorithms)
     - [Glucose Prediction Algorithms](#glucose-prediction-algorithms)
     - [Exercise Management Algorithms](#exercise-management-algorithms)
 - [Software for Clinical Trials](#software-for-clinical-trials)
@@ -60,11 +60,11 @@ A curated list of awesome open-source initiatives frameworks, libraries, softwar
 * [GVAP](https://sourceforge.net/projects/glyvariab/files/?source=navbar) - 
 * [EasyGV](www.phc.ox.ac.uk/research/technology-outputs/easygv) - Easy Glycemic Variability.
 
-# Algorithms for Diabetes Management
-
-## CGM Processing Algorithms
+## CGM Data Processing Algorithms
 
 * [Bayesian-Denoising-CGM](https://github.com/NunzioCamer/Bayesian-Denoising-CGM) A Bayesian denoising algorithm to deal with colored, non-stationary noise in continuous glucose monitoring timeseries.
+
+# Algorithms for Diabetes Management
 
 ## Glucose Prediction Algorithms
 
