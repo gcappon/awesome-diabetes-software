@@ -55,20 +55,21 @@ A curated list of awesome open-source initiatives frameworks, libraries, softwar
 * [cgmquantify](https://github.com/brinnaebent/cgmquantify) - 
 * [GLU](https://github.com/MRCIEU/GLU) - 
 * [cgmanalysis](https://cran.r-project.org/web/packages/cgmanalysis/index.html) - 
-* [CGManalyzer](https://cran.r- project.org/web/packages/CG Manalyzer/index.html) - 
+* [CGManalyzer](https://cran.r-project.org/web/packages/CGManalyzer/index.html) - 
 * [Tidepool Platform](https://github.com/tidepool-org/blip) - 
 * [GVAP](https://sourceforge.net/projects/glyvariab/files/?source=navbar) - 
 * [EasyGV](www.phc.ox.ac.uk/research/technology-outputs/easygv) - Easy Glycemic Variability.
 
 ## CGM Data Processing Algorithms
 
-* [Bayesian-Denoising-CGM](https://github.com/NunzioCamer/Bayesian-Denoising-CGM) A Bayesian denoising algorithm to deal with colored, non-stationary noise in continuous glucose monitoring timeseries.
+* [Bayesian-Denoising-CGM](https://github.com/NunzioCamer/Bayesian-Denoising-CGM) - A Bayesian denoising algorithm to deal with colored, non-stationary noise in continuous glucose monitoring timeseries.
 
 # Algorithms for Diabetes Management
 
 ## Glucose Prediction Algorithms
 
-* [PhyPredict](https://github.com/checoisback/phy-predict) Algorithm to predict glucose ahead in time by using a non-linear physiological model of glucose-insulin dynamics and the particle filter.
+* [PhyPredict](https://github.com/checoisback/phy-predict) - Algorithm to predict glucose ahead in time by using a non-linear physiological model of glucose-insulin dynamics and the particle filter.
+* [GluPredKit](https://github.com/miriamkw/GluPredKit) - Software to steamline data-driven blood glucose prediction,  including data fetching, processing, training, evaluation and real-time predictions.
 
 ## Exercise Management Algorithms
 
