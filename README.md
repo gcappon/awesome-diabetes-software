@@ -69,7 +69,7 @@ A curated list of awesome open-source initiatives frameworks, libraries, softwar
 ## Glucose Prediction Algorithms
 
 * [PhyPredict](https://github.com/checoisback/phy-predict) - Algorithm to predict glucose ahead in time by using a non-linear physiological model of glucose-insulin dynamics and the particle filter.
-* [GluPredKit](https://github.com/miriamkw/GluPredKit) - Software to steamline data-driven blood glucose prediction,  predict glucose ahead in time including data fetching, processing, training, evaluation and real-time predictions.
+* [GluPredKit](https://github.com/miriamkw/GluPredKit) - Software to steamline data-driven blood glucose prediction,  including data fetching, processing, training, evaluation and real-time predictions.
 
 ## Exercise Management Algorithms
 
