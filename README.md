@@ -30,7 +30,7 @@ A curated list of awesome open-source initiatives frameworks, libraries, softwar
 * [APS_TestBed](https://github.com/UVA-DSA/APS_TestBed) - A closed-loop testbed for the artificial pancreas system (APS) that evaluates the effectiveness of new control algorithms and other features for the APS in both normal and hazardous environments. The testbed is made up of two APS simulators, UVA/Padova and Glucosym, and a fault injection engine. This repository also includes a dataset we generated with the testbed containing both safe and hazardous data traces from APS.
 * [LT1](https://github.com/hpeuscher/loopinsight1) - A closed-loop simulation software of automatic insulin delivery systems for type 1 diabetic persons.
 * [CGMSIM](https://lsandini.github.io/cgmsim-site/) - A real-time T1D simulation for teaching/training purposes.
-* [TRSET](https://github.com/tidepool-org/data-science-simulator) - A simulation of the Loop automatic insulin delivery system for estimating risk of hazardous situations.
+* [TRSET](https://github.com/tidepool-org/data-science-simulator) - A simulation of the Tidepool Loop automatic insulin delivery system for estimating risk of hazardous situations.
 
 ## Type 2 Diabetes Simulators
 
