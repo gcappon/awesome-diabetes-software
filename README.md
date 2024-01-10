@@ -57,7 +57,7 @@ A curated list of awesome open-source initiatives frameworks, libraries, softwar
 * [GLU](https://github.com/MRCIEU/GLU) - 
 * [cgmanalysis](https://cran.r-project.org/web/packages/cgmanalysis/index.html) - 
 * [CGManalyzer](https://cran.r-project.org/web/packages/CGManalyzer/index.html) - 
-* [Tidepool Platform](https://github.com/tidepool-org/blip) - 
+* [Tidepool Platform](https://github.com/tidepool-org/blip) - Diabetes device data standardization and visualization, providing consistent reporting for patients and providers.
 * [GVAP](https://sourceforge.net/projects/glyvariab/files/?source=navbar) - 
 * [EasyGV](www.phc.ox.ac.uk/research/technology-outputs/easygv) - Easy Glycemic Variability.
 
