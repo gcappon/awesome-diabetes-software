@@ -31,6 +31,7 @@ A curated list of awesome open-source initiatives frameworks, libraries, softwar
 * [LT1](https://github.com/hpeuscher/loopinsight1) - A closed-loop simulation software of automatic insulin delivery systems for type 1 diabetic persons.
 * [CGMSIM](https://lsandini.github.io/cgmsim-site/) - A real-time T1D simulation for teaching/training purposes.
 * [TRSET](https://github.com/tidepool-org/data-science-simulator) - A simulation of the Tidepool Loop automatic insulin delivery system for estimating risk of hazardous situations.
+* [T1D Exercise Model](https://gitlab.com/csb.ethz/t1d-exercise-model) - A full-day patient simulator including moderate to high intensity exercise.
 
 ## Type 2 Diabetes Simulators
 
@@ -42,24 +43,25 @@ A curated list of awesome open-source initiatives frameworks, libraries, softwar
 ## Digital Twin-Based Simulators
 
 * [ReplayBG](https://github.com/gcappon/replay-bg) - ReplayBG is a digital twin-based MATLAB® toolbox to assess new strategies for type 1 diabetes management on retrospective patient data.
-* [PyReplayBG](https://github.com/gcappon/py_replay_bg) - ReplayBG is a digital twin-based Python toolbox to assess new strategies for type 1 diabetes management on retrospective patient data.
-
+* [PyReplayBG](https://github.com/gcappon/py_replay_bg) - The Python porting of [ReplayBG](#replaybg).
+  
 # Analysis Software
 
 ## Software for CGM Data Analysis
 
 * [AGATA](https://github.com/gcappon/agata) - AGATA (Automated Glucose dATa Analysis) is a MATLAB® toolbox to analyse glucose data.
-* [rGV](https://cran.r-project.org/web/packages/rGV/index.html) - 
-* [CGMTSA](https://github.com/RyanJ-Shao/CGMTSA) - 
-* [CGDA](https://github.com/EvdVossen/CGDA) - 
+* [AGATA](https://github.com/gcappon/py_agata) - The Python porting of [AGATA](#agata)
+* [rGV](https://cran.r-project.org/web/packages/rGV/index.html) - Reads in continuous glucose monitor data of many different formats, calculates a host of glycemic variability metrics, and plots glucose over time.
+* [CGMTSA](https://github.com/RyanJ-Shao/CGMTSA) - <No description given>
+* [CGDA](https://github.com/EvdVossen/CGDA) - CGDA package to process Continuous Glucose Measurements data.
 * [iglu](https://github.com/irinagain/iglu) - Interpreting data from Continuous Glucose Monitors (CGMs).
-* [cgmquantify](https://github.com/brinnaebent/cgmquantify) - 
-* [GLU](https://github.com/MRCIEU/GLU) - 
-* [cgmanalysis](https://cran.r-project.org/web/packages/cgmanalysis/index.html) - 
-* [CGManalyzer](https://cran.r-project.org/web/packages/CGManalyzer/index.html) - 
+* [cgmquantify](https://github.com/brinnaebent/cgmquantify) - Python package for analyzing glucose and glucose variability.
+* [GLU](https://github.com/MRCIEU/GLU) - A tool for analysing continuously measured glucose in epidemiology.
+* [cgmanalysis](https://cran.r-project.org/web/packages/cgmanalysis/index.html) - R package with several different functions for cleaning and analyzing continuous glucose monitor data.
+* [CGManalyzer](https://cran.r-project.org/web/packages/CGManalyzer/index.html) - R package with functions necessary for the complete analysis of a continuous glucose monitoring study.
 * [Tidepool Platform](https://github.com/tidepool-org/blip) - Diabetes device data standardization and visualization, providing consistent reporting for patients and providers.
-* [GVAP](https://sourceforge.net/projects/glyvariab/files/?source=navbar) - 
-* [EasyGV](www.phc.ox.ac.uk/research/technology-outputs/easygv) - Easy Glycemic Variability.
+* [GVAP](https://sourceforge.net/projects/glyvariab/files/?source=navbar) - <No description given>
+* [EasyGV](www.phc.ox.ac.uk/research/technology-outputs/easygv) - Software that allows you to calculate 10 different measures of glycaemic variability (GV) from continuos glucose monitoring data using a simple interface.
 
 ## CGM Data Processing Algorithms
 
@@ -75,6 +77,7 @@ A curated list of awesome open-source initiatives frameworks, libraries, softwar
 ## Exercise Management Algorithms
 
 * [T1D Exercise Adjustment](https://gitlab.com/csb.ethz/t1d-exercise-adjustment) - Exercise and T1D: Modeling, simulation and evaluation of treatment strategies.
+* [T1D Exercise Control](https://gitlab.com/csb.ethz/t1d-exercise-control) - Exercise and T1D: using insulin sensitivity estimation with model predictive control.
 
 # Software for Clinical Trials
 
@@ -94,6 +97,7 @@ Where to discover learning resources.
 
 * Bioengineering
     * [IEEE Transaction on Biomedical Engineering](https://www.embs.org/tbme/) - IEEE Transactions on Biomedical Engineering contains basic and applied papers dealing with biomedical engineering. Papers range from engineering development in methods and techniques with biomedical applications to experimental and clinical investigations with engineering contributions.
+    * [Journal of Diabetes Science and Technology](https://journals.sagepub.com/home/dst) - Journal of Diabetes Science and Technology (JDST) is a bi-monthly, peer-reviewed scientific journal published by Diabetes Technology Society (DTS). JDST covers scientific and clinical aspects of diabetes technology, the development and use of mobile applications and wireless communication, as well as bioengineered tools.
 
 # Contributing
 
