@@ -16,7 +16,7 @@ A curated list of awesome open-source initiatives frameworks, libraries, softwar
 - [Software for Clinical Trials](#software-for-clinical-trials)
     - [Software to Determine Clinical Trial Outcomes Accuracy](#software-to-determine-clinical-trial-outcomes-accuracy)
     - [Software for Glucose Clamp Experiments](#software-for-glucose-clamp-experiments)
-    - [Software to Determine CGM System Performance](#software-for-glucose-clamp-experiments)
+    - [Software to Determine CGM System Performance](#software-to-determine-cgm-system-performance)
 - [Resources](#resources)
     - [Top-level Journals](#top-level-journals)
 - [Contributing](#contributing)
