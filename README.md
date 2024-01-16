@@ -16,6 +16,7 @@ A curated list of awesome open-source initiatives frameworks, libraries, softwar
 - [Software for Clinical Trials](#software-for-clinical-trials)
     - [Software to Determine Clinical Trial Outcomes Accuracy](#software-to-determine-clinical-trial-outcomes-accuracy)
     - [Software for Glucose Clamp Experiments](#software-for-glucose-clamp-experiments)
+    - [Software to Determine CGM System Performance](#software-for-glucose-clamp-experiments)
 - [Resources](#resources)
     - [Top-level Journals](#top-level-journals)
 - [Contributing](#contributing)
@@ -88,6 +89,10 @@ A curated list of awesome open-source initiatives frameworks, libraries, softwar
 ## Software for Glucose Clamp Experiments
 
 * [Gluclas](https://github.com/jp993/gluclas) - Gluclas (GLUcose CLamp ASsistant) is a free software for suggesting glucose infusion rate adjustments during manual glucose clamp experiments.
+
+## Software to Determine CGM System Performance
+
+* [CGM Performance](https://github.com/IfDTUlm/CGM_Performance_Assessment) - This is colletion of software tools to characterize the performance of CGM systems in the context of clincial studies, developed by the Institute for Diabetes Technology in Ulm.
 
 # Resources
 
