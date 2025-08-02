@@ -63,6 +63,8 @@ A curated list of awesome open-source initiatives frameworks, libraries, softwar
 * [Tidepool Platform](https://github.com/tidepool-org/blip) - Diabetes device data standardization and visualization, providing consistent reporting for patients and providers.
 * [GVAP](https://sourceforge.net/projects/glyvariab/files/?source=navbar) - <No description given>
 * [EasyGV](www.phc.ox.ac.uk/research/technology-outputs/easygv) - Software that allows you to calculate 10 different measures of glycaemic variability (GV) from continuos glucose monitoring data using a simple interface.
+* [CG-DIVA](https://github.com/IfDTUlm/CGM_Performance_Assessment) - A collection of software packages for the statistical performance assessment of continous glucose monitoring systems.
+
 
 ## CGM Data Processing Algorithms
 
